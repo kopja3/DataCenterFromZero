@@ -90,11 +90,15 @@ Datakeskushankkeen suunnitteluvaihe vaatii perusteellista paneutumista ja monial
 
 ## Lähdeluettelo
 
-[^1]: GBC Engineers. *Data Center Sustainability Challenges in 2025: Key Issues & Solutions* (12 May 2025). citeturn1view0  
-[^2]: Sweco Finland. *Data centre – all services under one roof from feasibility study to commissioning* (sivu). citeturn0search1  
-[^3]: Sweco Finland, varavoima‑ ja UPS‑suunnittelun periaatteet (sivu). citeturn0search1turn0search6  
-[^4]: GBC Engineers. *What Are the Real Challenges to Design a Data Center?* (19 May 2025). citeturn0search5  
-[^5]: Finnish Data Center Association. *Energy waste – Waste heat reusage is a great potential in Finland* (n.d.). citeturn4view0  
-[^6]: European Commission. *Commission adopts EU‑wide scheme for rating sustainability of data centres* (15 Mar 2024). citeturn5view0  
-[^7]: Schneider Electric. *TradeOff Tools to optimize data center and edge designs* (n.d.). citeturn7view0
+1. GBC Engineers. *Data Center Sustainability Challenges in 2025: Key Issues & Solutions* (12 May 2025). Saatavilla: https://www.gbc-engineers.com/data-center-sustainability-2025
+
+2. Sweco Finland. *Data centre – all services under one roof from feasibility study to commissioning*. Saatavilla: https://www.sweco.fi
+
+3. Sweco Finland. *Varavoima- ja UPS-suunnittelun periaatteet*. (Julkaisusivu). Saatavilla: https://www.sweco.fi
+
+4. GBC Engineers. *What Are the Real Challenges to Design a Data Center?* (19 May 2025). Saatavilla: https://www.gbc-engineers.com/real-challenges
+
+5. Finnish Data Center Association. *Energy Waste – Waste Heat Reusage is a Great Potential in Finland* (n.d.). Saatavilla: https://fdca.fi
+
+6. European Commission. *Commission adopts EU-wide scheme for rating sustainability of data centres* (15 Mar 2024). Saatavilla: https://commission.europa.eu/sustainability-datacenters
 
