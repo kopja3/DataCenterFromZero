@@ -1,0 +1,2 @@
+# DataCenterFromZero
+Oppimispolku mobiilisovelluksesta omaan datakeskukseen
