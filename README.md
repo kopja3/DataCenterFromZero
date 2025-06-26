@@ -65,8 +65,10 @@ Tehtävät:
 
     Hankitaan laitteisto:
 
-        Palvelimet (tower,rack,blade)
-       ![tower](images/tower_server.png)
+       Palvelimet (tower,rack,blade)
+       ## Palvelintyypit
+       ### 🏢 Tower-palvelin 
+       ![Tower-palvelin](images/tower_server.png)
        Tornipalvelin on palvelin omalla itsenäisellä kotelolla. Ne valmistetaan minimaalisella komponenttien ja ohjelmistoja määrällä, joten keskikokoiset ja suuryritykset voivat mukauttaa
        niitä omiin tiettyihin tehtäviinsä. Tornipalvelimissa ei yleensä ole näytönohjaimia, suurta RAM-muistia tai oheislaitteita. 
        Tornipalvelimet on tyypillisesti suunnattu asiakkaille, jotka haluavat mukauttaa palvelimiaan ja ylläpitää mukautettua päivityspolkua.
@@ -95,8 +97,8 @@ Tehtävät:
         | 🧱 **Suuri tilantarve**: Ei sovi räkkeihin ja vie runsaasti tilaa. Sisäosien päivitys vaatii kotelon avaamista. |    
         | | 🔌 **Vaivalloinen oheislaitteiden hallinta**: Useiden tornien ympäristössä tarvitaan erillisiä kytkimiä tai käsin tehtävää johdotusta laitteiden välillä. |
         https://www.serverwatch.com/hardware/blade-servers-vs-rack-servers/
-       
-       ![rack](images/rack_server.png)
+       ### 📦 Rack-palvelin
+      ![Rack-palvelin](images/rack_server.png)
        Räkkipalvelin on räkin sisään asennettu palvelin. Räkkipalvelimet ovat tyypillisesti yleiskäyttöisiä palvelimia, jotka tukevat laajaa valikoimaa sovelluksia ja laskentainfrastruktuuria. 
        Standardoituja räkkejä mitataan yksiköissä (Units, U), jotka ovat 1,75 tuumaa korkeita ja 19 tuumaa leveitä. 
        Räkkipalvelimet sopivat näihin mittoihin pystysuuntaisten kertoimien avulla, mikä tarkoittaa, että räkkipalvelinten korkeudet voivat olla 1U, 4U, 10U tai korkeammat, 
@@ -117,8 +119,10 @@ Tehtävät:
         | 💰 **Kustannustehokkuus pienissä ympäristöissä**: Tarjoaa hallinta- ja energiatehokkuutta pienemmillä kustannuksilla. | |
            
        [https://www.serverwatch.com/hardware/rack-server/]
+
        
-       ![blade](images/blade_server.png)
+       ### 🔪 Blade-palvelin
+       ![Blade-palvelin](images/blade_server.png)
        Blade-palvelin on kompakti, itsenäinen laskentamoduuli, joka mahtuu standardoituun koteloon, jota kutsutaan blade-rungoksi. 
        Blade-palvelin on kuin itsenäinen palvelin "korttimuodossa", joka liitetään yhteiseen infrastruktuuriin – aivan kuten I/O-kortti liitetään emolevyyn. 
        Tämä mahdollistaa suuren palvelintiheyden ja tehokkaan resurssien jaon datakeskuksissa.
