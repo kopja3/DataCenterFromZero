@@ -66,7 +66,7 @@ Tehtävät:
     Hankitaan laitteisto:
 
         Palvelimet (tower,rack,blade)
-       ![rack](images/tower_server.png)
+       ![tower](images/tower_server.png)
        Tornipalvelin on palvelin omalla itsenäisellä kotelolla. Ne valmistetaan minimaalisella komponenttien ja ohjelmistoja määrällä, joten keskikokoiset ja suuryritykset voivat mukauttaa
        niitä omiin tiettyihin tehtäviinsä. Tornipalvelimissa ei yleensä ole näytönohjaimia, suurta RAM-muistia tai oheislaitteita. 
        Tornipalvelimet on tyypillisesti suunnattu asiakkaille, jotka haluavat mukauttaa palvelimiaan ja ylläpitää mukautettua päivityspolkua.
