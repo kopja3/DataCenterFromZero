@@ -89,13 +89,16 @@ hiiret ja näytöt tai kytkimet, jotka mahdollistavat oheislaitteiden jakamisen.
 Tornipalvelimet voivat jakaa verkkotallennustilaa kuten minkä tahansa muun tyyppiset palvelimet.
 ## 🏢 Tower-palvelimen edut ja haitat
 
-| **Edut (Pros)** | **Haitat (Cons)** |
-|-----------------|------------------|
-| 🔧 **Joustava päivitettävyys**: Vähäinen peruskonfiguraatio mahdollistaa mukauttamisen liiketoiminnan tarpeisiin. Edullisempi kuin täysin varusteltu palvelin. 
-| 💸 **Korkeat päivityskustannukset**: Räätälöinti ja tehokkaat komponentit voivat nostaa kokonaishintaa huomattavasti. |
-| ❄️ **Alhaiset jäähdytyskulut**: Alhainen komponenttitiheys tekee tornipalvelimista energiatehokkaampia viilentää kuin tiheät rack- tai blade-palvelimet. 
-| 🧱 **Suuri tilantarve**: Ei sovi räkkeihin ja vie runsaasti tilaa. Sisäosien päivitys vaatii kotelon avaamista. |    
-| | 🔌 **Vaivalloinen oheislaitteiden hallinta**: Useiden tornien ympäristössä tarvitaan erillisiä kytkimiä tai käsin tehtävää johdotusta laitteiden välillä. |
+| **Edut** | **Selitys** |
+|----------|-------------|
+| **Joustava päivitettävyys**| Vähäinen peruskonfiguraatio mahdollistaa mukauttamisen liiketoiminnan tarpeisiin. Edullisempi kuin täysin varusteltu palvelin. 
+| **Alhaiset jäähdytyskulut**| Alhainen komponenttitiheys tekee tornipalvelimista energiatehokkaampia viilentää kuin tiheät rack- tai blade-palvelimet. 
+
+| **Haitat** | **Selitys** |
+|-----------|-------------|
+| **Korkeat päivityskustannukset**| Räätälöinti ja tehokkaat komponentit voivat nostaa kokonaishintaa huomattavasti. |
+| **Suuri tilantarve**| Ei sovi räkkeihin ja vie runsaasti tilaa. Sisäosien päivitys vaatii kotelon avaamista. |    
+| **Vaivalloinen oheislaitteiden hallinta**| Useiden tornien ympäristössä tarvitaan erillisiä kytkimiä tai käsin tehtävää johdotusta laitteiden välillä. |
 
 https://www.serverwatch.com/hardware/blade-servers-vs-rack-servers/
 ### 📦 Rack-palvelin
@@ -109,15 +112,18 @@ Yhdestä kahdeksaan räkkipalvelinyksikköä voidaan asentaa räkkirakenteen lok
 Räkkipalvelimia voidaan pinota, laajentaa ja ehkä tärkeimpänä verkottaa. 
       
 ## 🗄️ Rack-palvelimen edut ja haitat
-| **Edut (Pros)** | **Haitat (Cons)** |
-|-----------------|------------------|
-| 🔌 **Itsenäinen yksikkö**: Jokaisessa rack-palvelimessa on oma virtalähde, prosessori ja muisti, joten se voi toimia erillisenä tai verkotettuna järjestelmänä. 
-| ⚡ **Korkea energiankulutus**: Tiheät rackit vaativat enemmän jäähdytystä, mikä kasvattaa energiakustannuksia. |
-| 📏 **Tilatehokkuus**: Rack-malliset laitteet hyödyntävät konesalitilan tehokkaasti. Laajennettavissa helposti lisämuistilla, levyillä ja prosessoreilla. 
-| 🧰 **Ylläpidon haasteet**: Tiheä kokoonpano vaatii enemmän vianetsintää ja ylläpitoa. |
-| 🔄 **Helppo vaihto**: Palvelimet voidaan hot-swapata fyysisesti helposti, jos tiedot on jaettu tai klusteroitu. | |
-| 💰 **Kustannustehokkuus pienissä ympäristöissä**: Tarjoaa hallinta- ja energiatehokkuutta pienemmillä kustannuksilla. | |
-      
+| **Edut** | **Selitys** |
+|----------|-------------|
+| **Itsenäinen yksikkö**| Jokaisessa rack-palvelimessa on oma virtalähde, prosessori ja muisti, joten se voi toimia erillisenä tai verkotettuna järjestelmänä. 
+| **Tilatehokkuus**| Rack-malliset laitteet hyödyntävät konesalitilan tehokkaasti. Laajennettavissa helposti lisämuistilla, levyillä ja prosessoreilla. 
+| **Helppo vaihto**| Palvelimet voidaan hot-swapata fyysisesti helposti, jos tiedot on jaettu tai klusteroitu. | 
+| **Kustannustehokkuus pienissä ympäristöissä**| Tarjoaa hallinta- ja energiatehokkuutta pienemmillä kustannuksilla. | 
+
+| **Haitat** | **Selitys** |
+|-----------|-------------|
+| **Korkea energiankulutus**| Tiheät rackit vaativat enemmän jäähdytystä, mikä kasvattaa energiakustannuksia.|
+| **Ylläpidon haasteet**| Tiheä kokoonpano vaatii enemmän vianetsintää ja ylläpitoa. |
+
 [https://www.serverwatch.com/hardware/rack-server/]
 
        
@@ -142,7 +148,6 @@ Blade-palvelin on erikoistunut laskentalaite suunniteltu käytettäväksi datake
 | **Monikäyttöisyys** | Voidaan käyttää käyttöjärjestelmien, virtualisointialustojen, tietokantojen, sovellusten ja verkkopalvelujen isännöintiin. |
 | **Saatavuus ja hallinta** | Yhtenäinen alusta helpottaa valvontaa, kuormanjakoa ja vikasietoisuutta. Hot swap ‑tuki lisää käytettävyyttä. |
       
----
         
 | **Haitat** | **Selitys** |
 |-----------|-------------|
