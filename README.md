@@ -246,6 +246,12 @@ Materiaalit valitaan kierrätettäviksi
 | Operointi      | Varmistaa, että investointi toimii – teknisesti ja liiketoiminnallisesti    |
 
 
+<p align="center">
+  <a href="https://hits.sh/github.com/kopja3/green_DC/">
+    <img alt="visits" src="https://hits.sh/github.com/kopja3/green_DC.svg?style=flat-square&label=visits">
+  </a>
+</p>
+
 
 
 
